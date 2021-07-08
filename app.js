@@ -1,1 +1,1 @@
-alert("Hello there");
+alert("Changes are made");
